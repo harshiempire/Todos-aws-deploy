@@ -123,7 +123,7 @@ function Todolistarray() {
       )}
       <div>
         <div class="h4 pb-2 mb-4 text-danger border-bottom border-danger">
-          Todo list Deployed
+          Todo list Deployed v2
         </div>
         <div className="container">
           {boxes.map((eachInput, index) => (
