@@ -32,7 +32,7 @@ function Todolistarray() {
   // const handleEdit = (index)=>{
 
   //   //how to insert is the first idea and
-  //   // next should i make a modal or input box where the value is the present todo list value
+  //   // next should i make a modal or input box where the value is the present todo lists value
   //   // and save button should appear
   //   // const Checkarr = [...boxes]
   //   // setSave(Checkarr[index])
